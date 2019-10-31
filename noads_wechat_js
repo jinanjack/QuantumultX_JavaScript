@@ -1,4 +1,0 @@
-# 去微信公众号广告 (By Choler)
-hostname = mp.weixin.qq.com, 
-
-^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad url script-response-body https://Choler.github.io/Surge/Script/WeChat.js
