@@ -1,4 +1,0 @@
-# 抖音去广告去水印 (By Choler)
-hostname = aweme*.snssdk.com,
-
-^https://aweme(-eagle)?.snssdk.com/aweme/v\d/(.*/)?(feed|post)/ url script-response-body https://Choler.github.io/Surge/Script/Aweme.js
