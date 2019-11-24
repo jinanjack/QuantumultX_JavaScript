@@ -1,3 +1,6 @@
+/**
+ * @supported 29022075FD28,44282AB815B8
+ */
 let obj=JSON.parse($response.body)
 let url = $request.url;
 var cons1 = "get";

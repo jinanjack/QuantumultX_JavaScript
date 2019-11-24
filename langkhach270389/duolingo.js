@@ -1,3 +1,6 @@
+/**
+ * @supported 29022075FD28,44282AB815B8
+ */
 var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);

@@ -1,3 +1,6 @@
+/**
+ * @supported 29022075FD28,44282AB815B8
+ */
 var obj = JSON.parse($response.body);
 if(obj.user.is_on_free_trial == false)
 {

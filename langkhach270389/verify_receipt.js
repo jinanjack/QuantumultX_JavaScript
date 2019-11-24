@@ -1,3 +1,6 @@
+/**
+ * @supported 29022075FD28,44282AB815B8
+ */
 let body= $response.body;
 var obj = JSON.parse(body);
 if (body.indexOf("expires") !=-1) {

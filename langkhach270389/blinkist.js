@@ -1,3 +1,6 @@
+/**
+ * @supported 29022075FD28,44282AB815B8
+ */
 let obj=JSON.parse($response.body);
 let url = $request.url;
 const cons1= "https://api.blinkist.com/v4/me";
