@@ -3,3 +3,12 @@
 
 
 api.rr.tv
+
+
+
+
+
+圈X的
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body bear.js
+
+buy.itunes.apple.com
